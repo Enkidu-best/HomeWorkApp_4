@@ -145,23 +145,7 @@ public class HomeWorkApp
                     return true; }
             }
         }
-
-//        for (int j = 0; j < SIZE; j++) {
-//            valDiag = 0;
-//            for (int i = SIZE; i >= 0; i -= 1) {
-//                // Проверка второй диаганали
-//                if (map[j][i] == symb && j == i){
-//                    valDiag = valDiag + 1;}
-//                // Проверка суммы значений
-//                if (valDiag == SIZE){
-//                    return true; }
-//            }
-//        }
         return false;
-
-
-
-
     }
 
 

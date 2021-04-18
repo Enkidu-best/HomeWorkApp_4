@@ -1,4 +1,5 @@
 // Домашнее задание №7
+
 public class HomeWorkApp {
     public static void main(String[] args) {
         Cat[] cats = {
